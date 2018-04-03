@@ -1,2 +1,2 @@
 # project-time-api
-Backend for the [project-time](https://github.com/mandiros3/project-time) frontend
+Backend for the [Project Time](https://github.com/mandiros3/project-time) frontend
